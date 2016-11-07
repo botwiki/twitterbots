@@ -1,0 +1,19 @@
+  ;  
+ ["] 
+/[_]\
+ ] [ 
+
+/* humanstxt.org */
+
+/* AUTHOR */
+
+Me 👋 twitter.com/fourtonfish
+
+/* CONTACT */
+
+stefan@botwiki.org.
+
+
+/* ALSO */
+
+Be sure to checkout botwiki.org and botmakers.org! 
